@@ -1,0 +1,12 @@
+.top{
+    padding: 15px;
+    border: dotted blue;
+}
+.mid{
+    padding: 15px;
+    border: dotted red;
+}
+.down{
+    padding: 15px;
+    border: solid green;
+}

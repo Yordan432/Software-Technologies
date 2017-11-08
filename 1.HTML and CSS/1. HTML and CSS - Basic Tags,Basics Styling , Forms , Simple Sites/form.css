@@ -1,0 +1,23 @@
+form{
+    background: #eeeeee;
+    display: inline-block;
+}
+form span{
+    display: inline-block;
+    width: 80px;
+    background: #eeeeee;
+    margin: 10px 3px 3px 8px;
+}
+form input, form select{
+    width: 100px;
+    height: 20px;
+    margin: 0px 5px;
+    box-sizing: border-box;
+
+}
+button{
+    display: block;
+    margin: 10px 0 12px 98px;
+    width: 100px;
+    height: 30px;
+}
