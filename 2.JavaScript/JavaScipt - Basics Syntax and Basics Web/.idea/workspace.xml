@@ -27,8 +27,8 @@
       <file leaf-file-name="ThreeIntegersSum.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ThreeIntegersSum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="85">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -44,11 +44,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="largest3Numbers.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="largest3Numbers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/largest3Numbers.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtractCapitalCaseWords.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractCapitalCaseWords.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumsbyTown.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SumsbyTown.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -93,6 +113,8 @@
         <option value="$PROJECT_DIR$/ThreeIntegersSum.js" />
         <option value="$PROJECT_DIR$/symmetricNumbers.js" />
         <option value="$PROJECT_DIR$/largest3Numbers.js" />
+        <option value="$PROJECT_DIR$/ExtractCapitalCaseWords.js" />
+        <option value="$PROJECT_DIR$/SumsbyTown.js" />
       </list>
     </option>
   </component>
@@ -165,26 +187,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.largest3Numbers.js">
+  <component name="RunManager" selected="Node.js.SumsbyTown.js">
+    <configuration name="ExtractCapitalCaseWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ExtractCapitalCaseWords.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="SumsbyTown.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SumsbyTown.js" working-dir="$PROJECT_DIR$" />
     <configuration name="ThreeIntegersSum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ThreeIntegersSum.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="calculateExpression.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="calculateExpression.js" working-dir="$PROJECT_DIR$" />
     <configuration name="largest3Numbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="largest3Numbers.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="sumTwoNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="sumTwoNumbers.js" working-dir="$PROJECT_DIR$" />
     <configuration name="symmetricNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="symmetricNumbers.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.calculateExpression.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.sumTwoNumbers.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.ThreeIntegersSum.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.symmetricNumbers.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.largest3Numbers.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.ThreeIntegersSum.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.symmetricNumbers.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.largest3Numbers.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.ExtractCapitalCaseWords.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.SumsbyTown.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.largest3Numbers.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.symmetricNumbers.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.ThreeIntegersSum.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.sumTwoNumbers.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.calculateExpression.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.SumsbyTown.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.ExtractCapitalCaseWords.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.largest3Numbers.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.symmetricNumbers.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.ThreeIntegersSum.js" />
       </list>
     </recent_temporary>
   </component>
@@ -199,26 +221,25 @@
       <option name="presentableId" value="Default" />
       <updated>1510404551573</updated>
       <workItem from="1510404558295" duration="12325000" />
-      <workItem from="1510496730182" duration="4140000" />
+      <workItem from="1510496730182" duration="8506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16465000" />
+    <option name="totallyTimeSpent" value="20831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5102362" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43149605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26771653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5102362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28503937" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -242,12 +263,17 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/largest3Numbers.js</url>
+          <url>file://$PROJECT_DIR$/ExtractCapitalCaseWords.js</url>
           <properties />
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/SumsbyTown.js</url>
+          <properties />
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -302,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ThreeIntegersSum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -312,14 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculateExpression.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -334,8 +352,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/largest3Numbers.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculateExpression.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractCapitalCaseWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SumsbyTown.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
